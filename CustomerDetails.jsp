@@ -1,4 +1,4 @@
-<page import="java.sql.*,CMST.*" %>
+<%@page import="java.sql.*,CMST.*" %>
 
 <style>
 
